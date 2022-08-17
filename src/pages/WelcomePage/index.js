@@ -97,7 +97,7 @@ export default function WelcomePage() {
               >
                 <div>
                   <Text fontWeight="bold" fontSize="sm">
-                    How would you like to sort your presenters today???
+                    How would you like to sort your presenters today?
                   </Text>
                   <br />
                   <FlexBox minHeight={50}>
